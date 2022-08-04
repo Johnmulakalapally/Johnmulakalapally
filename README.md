@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Johnmulakalapally
+- 👀 I’m interested in Software Industry
+- 🌱 I’m currently learning Python , Datascience and Machine Learning.
+- 📫 You can reach me through the mail id : johnmulakalapally@gmail.com
