@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Johnmulakalapally
-- 👀 I’m interested in Software Industry
+- 👀 I’m interested in Software Development and Machine Learning.
 - 🌱 I’m currently learning Python , Datascience and Machine Learning.
+-     I have the knowledge of Building Models in Machine Learning.
 - 📫 You can reach me through the mail id : johnmulakalapally@gmail.com
