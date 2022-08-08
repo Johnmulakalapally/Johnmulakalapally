@@ -8,7 +8,8 @@
 - 🌱 I Know to Write queries of <b>MYSQL</b>
  
 
-- 📫 You can reach me through :<br>
- Mail id : johnmulakalapally@gmail.com<br>
+📫 You can reach me through :<br>
+ <ul>Mail id : johnmulakalapally@gmail.com<br>
  LINKEDN : linkedin.com/in/john-mulakalapally-3b687622b <br>
  Naukari : https://www.naukri.com/mnjuser/homepage
+</ul>
