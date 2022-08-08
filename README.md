@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Datascience and Machine Learning along with Python as Programming Language.<br>
 - 🌱 I can Build Models in Machine Learning using ML Algorithms.<br>
 - 👀 I have basic knowledge of <b>HTML </b> and <b> CSS</b><br>
+- 🌱 I Know to Write queries of <b>MYSQL</b>
  
 
 - 📫 You can reach me through :<br>
