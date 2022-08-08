@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Johnmulakalapally
  <h2>Email  : johnmulakalapally@gmail.com</h2>
- <h2>Mobile : +91 8500090535</h2>
-- 👀 I’m interested in Software Development and Machine Learning.
-- 🌱 I’m currently learning Datascience and Machine Learning along with Python as Programming Language.
-- 🌱 I can Build Models in Machine Learning using ML Algorithms.
-- 👀 I have basic knowledge of <b>HTML </b> and <b> CSS</b>
+ <h2>Mobile : +91 8500090535</h2><br>
+- 👀 I’m interested in Software Development and Machine Learning.<br>
+- 🌱 I’m currently learning Datascience and Machine Learning along with Python as Programming Language.<br>
+- 🌱 I can Build Models in Machine Learning using ML Algorithms.<br>
+- 👀 I have basic knowledge of <b>HTML </b> and <b> CSS</b><br>
  
 
 - 📫 You can reach me through the mail id : johnmulakalapally@gmail.com
